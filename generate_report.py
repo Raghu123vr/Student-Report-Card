@@ -48,4 +48,5 @@ r.add_marks("chemistry",86)
 r.add_marks("english",85)
 r.add_marks("kannada",86)
 s=ReportCard()
+
 s.generate(r)
